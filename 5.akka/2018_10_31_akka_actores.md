@@ -1,5 +1,7 @@
 # Introducción a Akka
 
+https://akka.io/docs/
+
 Akka está fundamentado en futuros y promesas.
 
 ## Actores
